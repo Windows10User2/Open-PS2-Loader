@@ -6,7 +6,8 @@ Open PS2 Loader (OPL) is a open source PS2 game and application loader for the P
 * USB  
 * network via SMBv1  
 * IDE/SATA using the network adapter  
-* IEEE1394/FireWire/i.Link using SBP2  
+* IEEE1394/FireWire/i.Link using SBP2
+* MX4SIO (SD card connected to memory card port via adapter)
 
 Additional features are available in-game:
 * Emulation of memory cards  
