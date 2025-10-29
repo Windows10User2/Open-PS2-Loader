@@ -73,7 +73,7 @@ USB modes:
 
 | Folder | Description                                          | Modes       |
 | ------ | ---------------------------------------------------- | ----------- |
-| `CD`   | for games on CD media - i.e. blue-bottom discs       | USB and SMB |
+| `CD`   | for games on CD media - i.e. blue-bottom discs (even though they also work on the 'DVD' folder) | USB and SMB |
 | `DVD`  | for DVD5 and DVD9 images (if filesystem supports +4gb files) | USB and SMB |
 | `VMC`  | for Virtual Memory Card images - from 8MB up to 64MB | all         |
 | `CFG`  | for saving per-game configuration files              | all         |
