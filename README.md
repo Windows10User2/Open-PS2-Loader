@@ -32,7 +32,7 @@ All of the devices mentioned above support multiple file formats, including:
 - Homebrews (Apps) in ELF format;
 - HDDs support the HDLoader format.
 
-It's now the most compatible homebrew loader.
+It's now the most compatible homebrew loader along with Neutrino.
 
 >[!NOTE]
 OPL is developed continuously - anyone can contribute improvements to the project due to its open-source nature.
